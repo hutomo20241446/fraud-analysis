@@ -3,9 +3,9 @@
 ## **Gambaran Umum Proyek**  
 Proyek ini bertujuan untuk menganalisis dan mendeteksi transaksi penipuan (*fraud*) dalam platform pembayaran digital **Paper.id**, sebuah penyedia layanan faktur dan pembayaran digital terkemuka di Indonesia dengan lebih dari **600.000 pengguna** dan **8 juta faktur** yang diproses.  
 
-Analisis ini menggunakan berbagai teknik *data science*, termasuk:  
+Proyek ini memanfaatkan beberapa tools dan pendekatan dalam data science, meliputi:  
 - **Pemrograman Python** (*Data Cleaning, Feature Engineering, EDA*)  
-- **Query SQL Lanjutan** (*Advanced Queries, Stored Procedures, Views*)  
+- **Query SQL Lanjutan** (*Stored Procedures, Views*)  
 - **Analisis Jaringan Sosial** (*Social Network Analysis*)  
 - **Visualisasi Data** (*Tableau Dashboard*)  
 
