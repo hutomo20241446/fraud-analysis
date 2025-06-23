@@ -80,8 +80,7 @@ Data yang digunakan meliputi:
 ## **Tools yang Digunakan**  
 - **Python** (Pandas, NumPy, Matplotlib, Seaborn, NetworkX)  
 - **SQL** (Query Lanjutan, Stored Procedures)  
-- **Tableau** (Visualisasi & Dashboard)  
-- **Gephi** (Visualisasi Jaringan)  
+- **Tableau** (Visualisasi & Dashboard)   
 
 ---  
 
